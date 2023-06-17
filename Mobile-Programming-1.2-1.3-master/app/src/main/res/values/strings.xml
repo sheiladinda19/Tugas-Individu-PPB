@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">kodingppb</string>
+    <string name="article_title">Ada Berita</string>
+    <string name="article_subtitle">Pertumbuhan ekonomi Indonesia yang kuat pada kuartal pertama tahun 2023</string>
+    <string name="article_text">
+        <b>Jakarta, 9 Maret 2023</b> - Indonesia menunjukkan pertumbuhan ekonomi yang kuat pada kuartal pertama tahun ini, dengan ekonomi tumbuh 6,2% dibandingkan dengan tahun sebelumnya. Data yang dirilis oleh Badan Pusat Statistik (BPS) pada hari Rabu menunjukkan bahwa pertumbuhan ekonomi Indonesia melampaui ekspektasi pasar, yang memperkirakan pertumbuhan 5,8%.
+        \n\n
+        Menurut BPS, pertumbuhan ekonomi Indonesia didorong oleh sektor manufaktur dan konstruksi, yang masing-masing tumbuh sebesar 7,1% dan 6,8%. Selain itu, sektor perdagangan, hotel, dan restoran juga mengalami pertumbuhan positif sebesar 5,5%.
+        \n\n
+        "Kinerja sektor manufaktur dan konstruksi yang kuat menunjukkan bahwa kebijakan pemerintah untuk mendorong investasi dan pembangunan infrastruktur telah berhasil," kata Kepala BPS, Suhariyanto, dalam konferensi persnya.
+        \n\n
+        Namun, ada beberapa tantangan yang masih dihadapi oleh ekonomi Indonesia. Salah satunya adalah inflasi yang terus meningkat. Inflasi tahunan Indonesia mencapai 3,8% pada Februari 2023, naik dari 3,2% pada Januari 2023. BPS menyatakan bahwa kenaikan harga bahan bakar dan makanan adalah penyebab utama kenaikan inflasi tersebut.
+        \n\n
+        Selain itu, Indonesia juga masih menghadapi masalah ketidakpastian global yang dapat mempengaruhi pertumbuhan ekonomi. "Kami akan terus memantau perkembangan ekonomi global dan mengambil tindakan yang diperlukan untuk menjaga pertumbuhan ekonomi Indonesia tetap stabil," kata Menteri Keuangan Sri Mulyani Indrawati.
+        \n\n
+        Meskipun demikian, para ekonom memperkirakan bahwa pertumbuhan ekonomi Indonesia akan terus kuat pada tahun 2023. Bank Indonesia memperkirakan pertumbuhan ekonomi sebesar 6,5% pada tahun ini, sedangkan Bank Dunia memperkirakan pertumbuhan ekonomi sebesar 6,3%.
+        \n\n
+        Indonesia merupakan salah satu negara berkembang terbesar di dunia dengan populasi lebih dari 270 juta jiwa. Negara ini memiliki keanekaragaman budaya dan sumber daya alam yang melimpah, dan saat ini sedang berusaha untuk meningkatkan daya saing ekonominya melalui reformasi struktural dan pembangunan infrastruktur.
+    </string>
+    <string name="gempa_judul">Gempa Bumi</string>
+    <string name="gempa_subjudul">Penjelasan Gempa Bumi</string>
+    <string name="gempa_text">Gempa bumi adalah getaran atau getar-getar yang terjadi di permukaan bumi akibat pelepasan energi dari dalam secara tiba-tiba yang menciptakan gelombang seismik. Gempa Bumi biasa disebabkan oleh pergerakan kerak bumi (lempeng Bumi). Frekuensi suatu wilayah, mengacu pada jenis dan ukuran gempa Bumi yang dialami selama periode waktu. Gempa Bumi diukur dengan menggunakan alat Seismometer.
+
+Momen Magnitudo adalah skala yang paling umum di mana gempa Bumi terjadi untuk seluruh dunia.
+
+Skala Rickter adalah skala yang dilaporkan oleh observatorium seismologi nasional yang diukur pada skala besarnya lokal 5 magnitude. Kedua skala yang sama selama rentang angka mereka valid. Gempa 3 magnitude atau lebih sebagian besar hampir tidak terlihat dan jika besarnya 7 lebih berpotensi menyebabkan kerusakan serius di daerah yang luas, tergantung pada kedalaman gempa. Gempa Bumi terbesar bersejarah besarnya telah lebih dari 9, meskipun tidak ada batasan besarnya. Gempa Bumi besar terakhir besarnya 9,0 atau lebih besar adalah 9.0 magnitudo di Jepang pada tahun 2011 (per Maret 2011), dan itu adalah gempa Jepang terbesar sejak pencatatan dimulai. Intensitas getaran diukur pada modifikasi Skala Mercalli.
+    Gempa bumi tektonik
+Gempa Bumi ini disebabkan oleh adanya aktivitas tektonik, yaitu pergeseran lempeng-lempeng tektonik secara mendadak yang mempunyai kekuatan dari yang sangat kecil hingga yang sangat besar. Gempa bumi ini banyak menimbulkan kerusakan atau bencana alam di Bumi, getaran gempa Bumi yang kuat mampu menjalar keseluruh bagian Bumi. Gempa bumi tektonik disebabkan oleh pelepasan tenaga yang terjadi karena pergeseran lempengan plat tektonik seperti layaknya gelang karet ditarik dan dilepaskan dengan tiba-tiba.
+
+Gempa bumi tumbukan
+Gempa Bumi ini diakibatkan oleh tumbukan meteor atau asteroid yang jatuh ke Bumi, jenis gempa Bumi ini jarang terjadi
+
+Gempa bumi runtuhan
+Gempa Bumi ini biasanya terjadi pada daerah kapur ataupun pada daerah pertambangan, gempabumi ini jarang terjadi dan bersifat lokal.
+
+Gempa bumi buatan
+Gempa bumi buatan adalah gempa bumi yang disebabkan oleh aktivitas dari manusia, seperti peledakan dinamit, nuklir atau palu yang dipukulkan ke permukaan bumi.
+
+Gempa bumi vulkanik (gunung api)
+Gempa Bumi ini terjadi akibat adanya aktivitas magma, yang biasa terjadi sebelum gunung api meletus. Apabila keaktifannya semakin tinggi maka akan menyebabkan timbulnya ledakan yang juga akan menimbulkan terjadinya gempa bumi. Gempa bumi tersebut hanya terasa di sekitar gunung api tersebut.
+
+Berdasarkan kedalaman
+
+Gempa bumi dalam
+Gempa bumi dalam adalah gempa bumi yang hiposentrumnya berada lebih dari 300 km di bawah permukaan bumi (di dalam kerak bumi). Gempa bumi dalam pada umumnya tidak terlalu berbahaya.
+
+Gempa bumi menengah
+Gempa bumi menengah adalah gempa bumi yang hiposentrumnya berada antara 60 km sampai 300 km di bawah permukaan bumi.gempa bumi menengah pada umumnya menimbulkan kerusakan ringan dan getarannya lebih terasa.
+
+Gempa bumi dangkal
+Gempa bumi dangkal adalah gempa bumi yang hiposentrumnya berada kurang dari 60 km dari permukaan bumi. Gempa bumi ini biasanya menimbulkan kerusakan yang besar.
+
+Berdasarkan gelombang/getaran gempa
+
+Gelombang Primer
+Gelombang primer (gelombang lungituudinal) adalah gelombang atau getaran yang merambat di tubuh bumi dengan kecepatan antara 7–14 km/detik. Getaran ini berasal dari hiposentrum.
+
+Gelombang Sekunder
+Gelombang sekunder (gelombang transversal) adalah gelombang atau getaran yang merambat, seperti gelombang primer dengan kecepatan yang sudah berkurang,yakni 4–7 km/detik. Gelombang sekunder tidak dapat merambat melalui lapisan cair.
+
+Penyebab terjadinya gempa bumi
+
+Kebanyakan gempa Bumi disebabkan dari pelepasan energi yang dihasilkan oleh tekanan yang disebabkan oleh lempengan yang bergerak. Semakin lama tekanan itu kian membesar dan akhirnya mencapai pada keadaan di mana tekanan tersebut tidak dapat ditahan lagi oleh pinggiran lempengan. Pada saat itulah gempa Bumi akan terjadi.
+
+Pergeseran lempeng bumi dapat mengakibatkan gempa bumi karena dalam peristiwa tersebut disertai dengan pelepasan sejumlah energi yang besar. Selain pergeseran lempeng bumi, gerak lempeng bumi yang saling menjauhi satu sama lain juga dapat mengakibatkan gempa bumi. Hal tersebut dikarenakan saat dua lempeng bumi bergerak saling menjauh, akan terbentuk lempeng baru di antara keduanya. Lempeng baru yang terbentuk memiliki berat jenis yang jauh lebih kecil dari berat jenis lempeng yang lama. Lempeng yang baru terbentuk tersebut akan mendapatkan tekanan yang besar dari dua lempeng lama sehingga akan bergerak ke bawah dan menimbulkan pelepasan energi yang juga sangat besar. Terakhir adalah gerak lempeng yang saling mendekat juga dapat mengakibatkan gempa bumi. Pergerakan dua lempeng yang saling mendekat juga berdampak pada terbentuknya gunung. Seperti yang terjadi pada gunung Everest yang terus tumbuh tinggi akibat gerak lempeng di bawahnya yang semakin mendekat dan saling bertumpuk.
+
+Gempa Bumi biasanya terjadi di perbatasan lempengan-lempengan tersebut. Gempa Bumi yang paling parah biasanya terjadi di perbatasan lempengan kompresional dan translasional. Gempa Bumi fokus dalam kemungkinan besar terjadi karena materi lapisan litosfer yang terjepit kedalam mengalami transisi fase pada kedalaman lebih dari 600 km.
+
+Beberapa gempa Bumi lain juga dapat terjadi karena pergerakan magma di dalam gunung berapi. Gempa Bumi seperti itu dapat menjadi gejala akan terjadinya letusan gunung berapi. Beberapa gempa Bumi (jarang namun) juga terjadi karena menumpuknya massa air yang sangat besar di balik dam, seperti Dam Karibia di Zambia, Afrika. Sebagian lagi (jarang juga) juga dapat terjadi karena injeksi atau akstraksi cairan dari/ke dalam Bumi (contoh, pada beberapa pembangkit listrik tenaga panas Bumi dan di Rocky Mountain Arsenal). Terakhir, gempa juga dapat terjadi dari peledakan bahan peledak. Hal ini dapat membuat para ilmuwan memonitor tes rahasia senjata nuklir yang dilakukan pemerintah. Gempa Bumi yang disebabkan oleh manusia seperti ini dinamakan juga seismisitas terinduksi.
+    </string>
+
+</resources>
